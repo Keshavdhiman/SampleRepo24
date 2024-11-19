@@ -1,7 +1,2 @@
 # SampleRepo24
-# Demo Repo
-This is a sample repository for demonstrating Git workflows.
-
-## Features
-- Branch creation
-- Pull requests
+This is the changes made by shivam dubey
