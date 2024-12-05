@@ -1,5 +1,5 @@
-# Demo Repo
-This is a sample repository for demonstrating Git workflows.
+
+This is a sample repository by Chirag Mahajan
 
 
 Shivam
