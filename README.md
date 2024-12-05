@@ -1,5 +1,6 @@
 # Demo Repo
-This is a sample repository for demonstrating Git workflows.
+This is a sample repository made my tushar.
+
 
 
 Shivam
